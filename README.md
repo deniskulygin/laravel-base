@@ -86,7 +86,7 @@ Run worker to process jobs:
 make run-worker
 ```
 
-Run command to see lat 10 logs:
+Run command to see last 10 logs:
 ```bash
 make logs
 ```
